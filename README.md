@@ -1,3 +1,5 @@
+WORD COUNT:
+
 ### EQUIPEMENT'S REQUIRED:
 PC Anaconda - Python 3.7
 ### ALGORITHM:
@@ -21,8 +23,8 @@ print the count
 
 ### PROGRAM:
 write a program for getting the word count from a text.
-Developed by: R. Joyce Beulah
-RegisterNumber: 22009334
+Developed by: Anbuselvam
+RegisterNumber: 22009081
 ```
 f=open("sample1.txt","r")
 wc=0
