@@ -23,7 +23,7 @@ print the count
 write a program for getting the word count from a text.
 Developed by: R. Joyce Beulah
 RegisterNumber: 22009334
-
+```
 f=open("sample1.txt","r")
 wc=0
 for line in f:
@@ -31,6 +31,7 @@ for line in f:
     wc=wc+len(word)
 print("word count is:",wc)
 f.close()
+```
 OUTPUT:
 ![output](/Screenshot%20(74).png)
 
