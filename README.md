@@ -24,8 +24,8 @@ print the count
 ### PROGRAM:
 ```
 write a program for getting the word count from a text.
-Developed by: rakesh
-RegisterNumber: 22008590
+Developed by: anbuselvam
+RegisterNumber: 22009081
 f=open("sample1.txt","r")
 wc=0
 for line in f:
